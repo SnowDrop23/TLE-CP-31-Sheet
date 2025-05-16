@@ -1,3 +1,5 @@
+// Discussed Approach: https://docs.google.com/document/d/1GndxS92ayCuQOQTHVQvuxRdA7LS0sgfaZs2LvULT9rw/edit?tab=t.0
+
 #include <iostream>
 #include <map>
 using namespace std;
